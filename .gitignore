@@ -1,0 +1,10 @@
+.venv
+data/
+__pycache__/
+node_modules/
+.env
+output/
+weights/
+runs/
+*.pt
+.pytest_cache/

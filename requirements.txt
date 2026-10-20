@@ -1,0 +1,13 @@
+# Python 3.12+. Install PyTorch first for your CUDA version (https://pytorch.org/get-started/),
+# e.g. the author runs Python 3.14 with the cu134 nightly build.
+fastapi
+uvicorn[standard]
+sqlmodel
+python-multipart
+pillow
+python-dotenv
+transformers
+accelerate
+ultralytics
+httpx
+pytest
